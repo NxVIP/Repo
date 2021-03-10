@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: NxVIP <naiyfb1@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/1.4.12~Beta4.deb
+Filename: /debs/1.4.12~Beta4.deb
 Size: 156 
 MD5sum: a4dc9696690c0711b57d8c8a327e7fcf
 Description: Snowboard theming engine
